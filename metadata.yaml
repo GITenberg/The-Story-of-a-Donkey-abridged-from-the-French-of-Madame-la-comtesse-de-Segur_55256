@@ -1,5 +1,5 @@
 _repo: The-Story-of-a-Donkey-abridged-from-the-French-of-Madame-la-comtesse-de-Segur_55256
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Welsh, Charles
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '7222'
     url: http://www.gutenberg.org/2009/agents/7222
+covers:
+- cover_type: archival
+  image_path: 55256-h/images/cover.jpg
 creator:
   author:
     agent_name: Ségur, Sophie, comtesse de
@@ -27,6 +30,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
     - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55256#The-Story-of-a-Donkey-abridged-from-the-French-of-Madame-la-comtesse-de-Segur
 gutenberg_issued: '2017-08-04'
 gutenberg_type: Text
 identifiers:
