@@ -1,0 +1,42 @@
+_repo: The-Story-of-a-Donkey-abridged-from-the-French-of-Madame-la-comtesse-de-Segur_55256
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Welsh, Charles
+    aliases:
+    - Gael, Shane Na
+    - McIvor, Ivor Ben
+    birthdate: 1850
+    deathdate: 1914
+    gutenberg_agent_id: '7222'
+    url: http://www.gutenberg.org/2009/agents/7222
+creator:
+  author:
+    agent_name: Ségur, Sophie, comtesse de
+    aliases:
+    - Rostopchina, Sofiya Feodorovna
+    - De Ségur, Sophie, comtesse
+    - Ségur, Comtesse de
+    - Ségur, Sophie Rostopchine, comtesse de
+    - Segur, Comtesse de
+    birthdate: 1799
+    deathdate: 1874
+    gutenberg_agent_id: '3980'
+    url: http://www.gutenberg.org/2009/agents/3980
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
+    - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
+description: ''
+gutenberg_issued: '2017-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "The Story of a Donkey\r\nabridged from the French of Madame la comtesse de\
+  \ Ségur"
+url: http://www.gutenberg.org/ebooks/55256
